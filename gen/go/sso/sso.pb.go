@@ -4,7 +4,7 @@
 // 	protoc        v5.28.0
 // source: sso/sso.proto
 
-package ssov1
+package protos
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
