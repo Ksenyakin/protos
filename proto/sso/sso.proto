@@ -1,7 +1,8 @@
 syntax = "proto3";
+
 package protos;
 
-option go_package = ".";
+option go_package = "tuzov.sso.v1;ssov1";
 
 import "google/protobuf/timestamp.proto";
 
